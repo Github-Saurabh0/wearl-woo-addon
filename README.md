@@ -1,4 +1,4 @@
-# 🛒 Wearl Woo Addon
+#  Wearl Woo Addon - Post/page Update Date And Time
 
 **Wearl Woo Addon** is a modern and lightweight **WooCommerce extension** developed by **[Wearl Technologies](https://wearl.co.in)**.  
 It adds custom features, automation, and enhancements to your WordPress + WooCommerce store, built with scalability, clean structure, and secure coding practices.
